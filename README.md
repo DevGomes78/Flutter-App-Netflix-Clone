@@ -1,6 +1,7 @@
-#Netflix UI
+Netflix UI
 
 A new Flutter project.
+![Screenshot_1643750899](https://user-images.githubusercontent.com/98062365/152055314-b8a9eafc-b8fc-4696-9bfb-864c424cde93.png)
 
 ## Getting Started
 

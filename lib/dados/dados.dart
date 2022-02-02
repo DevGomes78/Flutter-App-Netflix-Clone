@@ -45,3 +45,10 @@ List<String> acao = [
   'https://capas-p.imagemfilmes.com.br/103364_000_p.jpg', //Plano de fuga
   'https://capas-p.imagemfilmes.com.br/148167_000_p.jpg', //A persegução
 ];
+
+enum estilo{
+  acao,
+infantil,
+  terror,
+  ficcao,
+}

@@ -19,22 +19,27 @@ Widget CarrouselList() {
         SizedBox(
           height: 10.0,
         ),
-        CarouselSlider(
-          options: CarouselOptions(
-            aspectRatio: 16 / 9,
-            viewportFraction: 1.0,
-            enlargeCenterPage: true,
-            height: 280.0,
-            autoPlay: true,
+        InkWell(
+          onTap: (){
+
+          },
+          child: CarouselSlider(
+            options: CarouselOptions(
+              aspectRatio: 16 / 9,
+              viewportFraction: 1.0,
+              enlargeCenterPage: true,
+              height: 280.0,
+              autoPlay: true,
+            ),
+            items: [
+              sliderItem(listaFilmes[0], titulo[0]),
+              sliderItem(listaFilmes[1], titulo[1]),
+              sliderItem(listaFilmes[2], titulo[2]),
+              sliderItem(listaFilmes[3], titulo[3]),
+              sliderItem(listaFilmes[4], titulo[4]),
+              sliderItem(listaFilmes[5], titulo[5]),
+            ],
           ),
-          items: [
-            sliderItem(listaFilmes[0], titulo[0]),
-            sliderItem(listaFilmes[1], titulo[1]),
-            sliderItem(listaFilmes[2], titulo[2]),
-            sliderItem(listaFilmes[3], titulo[3]),
-            sliderItem(listaFilmes[4], titulo[4]),
-            sliderItem(listaFilmes[5], titulo[5]),
-          ],
         ),
 
         // lista de filmes

@@ -1,6 +1,7 @@
 Netflix UI
 
-A new Flutter project.
+![netflix](https://user-images.githubusercontent.com/98062365/152450174-6723c8b6-bfe5-4e38-93b7-e7ad1c9ca173.gif)
+![netflix2](https://user-images.githubusercontent.com/98062365/152450180-616e3821-c42b-47ec-9bc8-0afbbd7991d3.gif)
 
 
 ## Getting Started
@@ -15,4 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![Screenshot_1643750899](https://user-images.githubusercontent.com/98062365/152056749-772cbf87-54dc-4bc9-82e8-0c1b4a53207e.png)
+

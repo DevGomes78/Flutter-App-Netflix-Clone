@@ -28,7 +28,7 @@ Widget CarrouselList() {
               aspectRatio: 16 / 9,
               viewportFraction: 1.0,
               enlargeCenterPage: true,
-              height: 280.0,
+              height: 255.0,
               autoPlay: true,
             ),
             items: [

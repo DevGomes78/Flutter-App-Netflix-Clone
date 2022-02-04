@@ -48,7 +48,7 @@ List<String> acao = [
 
 enum estilo{
   acao,
-infantil,
+  infantil,
   terror,
   ficcao,
 }

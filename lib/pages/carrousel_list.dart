@@ -14,15 +14,16 @@ Widget CarrouselList() {
         Text(
           'Lançamentos',
           style: TextStyle(
-              fontSize: 24.0, fontWeight: FontWeight.bold, color: Colors.white),
+            fontSize: 24.0,
+            fontWeight: FontWeight.bold,
+            color: Colors.white,
+          ),
         ),
         SizedBox(
           height: 10.0,
         ),
         InkWell(
-          onTap: (){
-
-          },
+          onTap: () {},
           child: CarouselSlider(
             options: CarouselOptions(
               aspectRatio: 16 / 9,

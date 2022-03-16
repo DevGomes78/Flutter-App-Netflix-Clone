@@ -9,7 +9,10 @@ Widget ListFilmes() {
       Text(
         'Ação',
         style: TextStyle(
-            fontSize: 22.0, fontWeight: FontWeight.bold, color: Colors.white),
+          fontSize: 22.0,
+          fontWeight: FontWeight.bold,
+          color: Colors.white,
+        ),
       ),
       Container(
         height: 320.0,
@@ -32,7 +35,10 @@ Widget ListFilmes() {
       Text(
         'Infantil',
         style: TextStyle(
-            fontSize: 22.0, fontWeight: FontWeight.bold, color: Colors.white),
+          fontSize: 22.0,
+          fontWeight: FontWeight.bold,
+          color: Colors.white,
+        ),
       ),
       Container(
         height: 320.0,
@@ -55,7 +61,10 @@ Widget ListFilmes() {
       Text(
         'Variados',
         style: TextStyle(
-            fontSize: 22.0, fontWeight: FontWeight.bold, color: Colors.white),
+          fontSize: 22.0,
+          fontWeight: FontWeight.bold,
+          color: Colors.white,
+        ),
       ),
       Container(
         height: 320.0,
